@@ -1,0 +1,10 @@
+<manifest>
+  <project path="packages/resources/devicesettings"
+           name="android_packages_resources_devicesettings"
+           remote="lineage"
+           revision="lineage-23.0"/>
+  <project path="packages/resources/pixelthemes"
+           name="android_packages_resources_pixelthemes"
+           remote="pixelbuilds"
+           revision="infinity"/>
+</manifest>

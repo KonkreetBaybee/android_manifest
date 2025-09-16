@@ -1,0 +1,10 @@
+<manifest>
+  <project path="tools/lineage"
+           name="android_tools_lineage"
+           remote="lineage"
+           revision="lineage-23.0"/>
+  <project path="tools/pixelbuilds"
+           name="android_tools_pixelbuilds"
+           remote="pixelbuilds"
+           revision="infinity"/>
+</manifest>
